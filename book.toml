@@ -1,0 +1,5 @@
+[book]
+authors = [ai7x]
+language = "en"
+multilingual = true
+src = "src"
