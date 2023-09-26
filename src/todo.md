@@ -1,6 +1,7 @@
 # todo:
 
 2023-September
+- read [next](https://ai7x.github.io/next/)
 - read [vite](vite.md)
 - read [react](https://react.dev/)
 - read [rust](https://www.rust-lang.org/)
@@ -12,6 +13,7 @@
 - read [javaEE-7](https://docs.oracle.com/javaee/7/tutorial/) or on [oracle](https://www.oracle.com/java/technologies/jee-tutorials.html)
 - read [spring](https://spring.io/)
 - read [jakarta.ee](https://jakarta.ee/)
+- read [mdBook](https://rust-lang.github.io/mdBook/)
 - read [linux](linux.md)
 - read book's
 
