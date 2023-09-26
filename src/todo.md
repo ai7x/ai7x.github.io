@@ -13,6 +13,7 @@
 - read [javaEE-7](https://docs.oracle.com/javaee/7/tutorial/) or on [oracle](https://www.oracle.com/java/technologies/jee-tutorials.html)
 - read [spring](https://spring.io/)
 - read [jakarta.ee](https://jakarta.ee/)
+- read [wildfly](https://www.wildfly.org/)
 - read [mdBook](https://rust-lang.github.io/mdBook/)
 - read [linux](linux.md)
 - read book's
@@ -25,3 +26,21 @@ and:
 - [https://learn.microsoft.com/en-us/](https://learn.microsoft.com/en-us/)
 - [https://learn.microsoft.com/en-us/docs/](https://learn.microsoft.com/en-us/docs/)
 - [https://learn.microsoft.com/en-us/training/](https://learn.microsoft.com/en-us/training/)
+- postgresql [
+    - [postgresql-docs](https://www.postgresql.org/docs/online-resources/)
+    - [postgresql-tutorial](https://www.postgresql.org/docs/current/tutorial.html)
+    - [postgresqltutorial](https://www.postgresqltutorial.com/)
+    - [postgresqltutorial-datacamp](https://www.datacamp.com/tutorial/beginners-introduction-postgresql)
+]
+- mysql-maria [
+    - [mysql-doc](https://dev.mysql.com/doc/mysql-getting-started/en/)
+    - [mariadb.org-doc](https://mariadb.org/documentation/)
+    - [mariadb.com-doc](https://mariadb.com/get-started-with-mariadb/)
+    - [mariadb.com-training](https://mariadb.com/kb/en/training-tutorials/)
+    - [mariadbtutorial](https://www.mariadbtutorial.com/)
+    - [mysqltutorial](https://www.mysqltutorial.org/)
+]
+
+github:
+
+- [github.com/ai7x](https://github.com/ai7x)
