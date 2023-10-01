@@ -1,9 +1,14 @@
 # todo:
 
-2023-September
+2023-October
 - read [next](https://ai7x.github.io/next/)
 - read [vite](vite.md)
 - read [react](https://react.dev/)
+- read [nextjs](https://nextjs.org/learn/foundations/from-javascript-to-react)
+- read [mozilla](https://developer.mozilla.org/en-US/)
+- read [mozilla-DOM](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
+- read [mozilla-javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- read [mozilla-react](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks#react_tutorials)
 - read [rust](https://www.rust-lang.org/)
 - read [golang](https://go.dev/)
 - read [python](https://www.python.org/)
@@ -14,8 +19,10 @@
 - read [spring](https://spring.io/)
 - read [jakarta.ee](https://jakarta.ee/)
 - read [wildfly](https://www.wildfly.org/)
+- read [gradle](https://github.com/gradle/gradle)
 - read [mdBook](https://rust-lang.github.io/mdBook/)
 - read [linux](linux.md)
+- read [git](git.md)
 - read book's
 
 and:
@@ -44,3 +51,7 @@ and:
 github:
 
 - [github.com/ai7x](https://github.com/ai7x)
+
+projects:
+
+- [vanilla](vanilla.md)
