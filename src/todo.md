@@ -12,6 +12,7 @@
 - read [rust](https://www.rust-lang.org/)
 - read [golang](https://go.dev/)
 - read [python](https://www.python.org/)
+- read [graphql](https://graphql.org/)
 - read [java](https://dev.java/)
 - read [java-8](https://docs.oracle.com/javase/tutorial/)
 - read [javaEE](https://javaee.github.io/tutorial/)
