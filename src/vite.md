@@ -7,6 +7,8 @@
 
 - read [vite](https://vitejs.dev/)
 - read [guide](https://vitejs.dev/guide/)
+- read [plugins](https://github.com/vitejs/awesome-vite#plugins)
+- read [create-vite](https://github.com/vitejs/vite/tree/main/packages/create-vite)
 
 - First Vite Project `$ npm create vite@latest`
 
