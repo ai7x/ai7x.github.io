@@ -5,7 +5,7 @@
 - read [vite](vite.md)
 - read [react](https://react.dev/)
 - read [nextjs](https://nextjs.org/learn/foundations/from-javascript-to-react)
-- read [astro](https://astro.build/)
+- read [astro](astro.md)
 - read [vuejs](https://vuejs.org/)
 - read [mozilla](https://developer.mozilla.org/en-US/)
 - read [mozilla-DOM](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
