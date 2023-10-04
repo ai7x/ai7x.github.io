@@ -14,7 +14,7 @@
 - read [mozilla-pwa](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 - read [mdx](https://mdxjs.com/)
 - read [jsx](https://facebook.github.io/jsx/)
-- read [rust](https://www.rust-lang.org/)
+- read [rust](rust.md)
 - read [golang](https://go.dev/)
 - read [python](https://www.python.org/)
 - read [graphql](https://graphql.org/)
