@@ -1,3 +1,9 @@
+# mdBook
+
+- read [mdBook](https://rust-lang.github.io/mdBook/)
+
+# Rust
+
 - read [rust](https://www.rust-lang.org/)
 - dev-bible-[rust](./dev-bible/rust.md)
 - [learn](https://www.rust-lang.org/learn)
@@ -5,6 +11,7 @@
 - [rust-by-example](https://doc.rust-lang.org/rust-by-example/)
 - [rustlings](https://github.com/rust-lang/rustlings/)
 - [github-rust-lang](https://github.com/rust-lang)
+- [crates.io](https://crates.io/)
 
 ![rust-logo](https://www.rust-lang.org/static/images/rust-logo-blk.svg)
 

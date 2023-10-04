@@ -1,0 +1,8 @@
+- read [java](https://dev.java/)
+- read [java-8](https://docs.oracle.com/javase/tutorial/)
+- read [javaEE](https://javaee.github.io/tutorial/)
+- read [javaEE-7](https://docs.oracle.com/javaee/7/tutorial/) or on [oracle](https://www.oracle.com/java/technologies/jee-tutorials.html)
+- read [spring](https://spring.io/)
+- read [jakarta.ee](https://jakarta.ee/)
+- read [wildfly](https://www.wildfly.org/)
+- read [gradle](https://github.com/gradle/gradle)

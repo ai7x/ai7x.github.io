@@ -1,10 +1,13 @@
 # Summary
 
 - [todo](todo.md)
-- [vite](vite.md)
-- [vanilla](vanilla.md)
-- [astro](astro.md)
+- [javascript](./js/index.md)
+    - [vite](./js/vite.md)
+    - [vanilla](./js/vanilla.md)
+    - [astro](./js/astro.md)
 - [rust](rust.md)
+- [java](java.md)
+- [cloud](cloud.md)
 - [git](git.md)
 - [linux](linux.md)
 - [dev-bible](./dev-bible/index.md)

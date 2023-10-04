@@ -1,34 +1,17 @@
 # todo:
 
 2023-October
-- read [next](https://ai7x.github.io/next/)
-- read [vite](vite.md)
-- read [react](https://react.dev/)
-- read [nextjs](https://nextjs.org/learn/foundations/from-javascript-to-react)
-- read [astro](astro.md)
-- read [vuejs](https://vuejs.org/)
-- read [mozilla](https://developer.mozilla.org/en-US/)
-- read [mozilla-DOM](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
-- read [mozilla-javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- read [mozilla-react](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks#react_tutorials)
-- read [mozilla-pwa](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
-- read [mdx](https://mdxjs.com/)
-- read [jsx](https://facebook.github.io/jsx/)
+
+- read [js](./js/index.md)
 - read [rust](rust.md)
 - read [golang](https://go.dev/)
 - read [python](https://www.python.org/)
 - read [graphql](https://graphql.org/)
-- read [java](https://dev.java/)
-- read [java-8](https://docs.oracle.com/javase/tutorial/)
-- read [javaEE](https://javaee.github.io/tutorial/)
-- read [javaEE-7](https://docs.oracle.com/javaee/7/tutorial/) or on [oracle](https://www.oracle.com/java/technologies/jee-tutorials.html)
-- read [spring](https://spring.io/)
-- read [jakarta.ee](https://jakarta.ee/)
-- read [wildfly](https://www.wildfly.org/)
-- read [gradle](https://github.com/gradle/gradle)
-- read [mdBook](https://rust-lang.github.io/mdBook/)
+- read [java](java.md)
+- read [cloud](cloud.md)
 - read [linux](linux.md)
 - read [git](git.md)
+- read [dev](./dev-bible/index.md)
 - read book's
 
 and:
@@ -60,4 +43,7 @@ github:
 
 projects:
 
-- [vanilla](vanilla.md)
+- [vanilla](./js/vanilla.md)
+- [ai7x/rust-get-started](https://github.com/ai7x/rust-get-started)
+- [next](https://github.com/ai7x/next)
+- [astro-ai7x](https://github.com/ai7x/astro)
