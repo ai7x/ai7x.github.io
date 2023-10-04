@@ -6,4 +6,6 @@
 - [astro](astro.md)
 - [git](git.md)
 - [linux](linux.md)
+- [dev-bible](./dev-bible/index.md)
+    - [dev-bible](./dev-bible/linux.md)
 - [edit-me](./temp.md)
