@@ -7,6 +7,7 @@
     - [astro](./js/astro.md)
 - [rust](rust.md)
 - [java](java.md)
+- [sql](sql.md)
 - [cloud](cloud.md)
 - [git](git.md)
 - [linux](linux.md)
