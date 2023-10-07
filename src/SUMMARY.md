@@ -4,6 +4,7 @@
 - [javascript](./js/index.md)
     - [vite](./js/vite.md)
     - [vanilla](./js/vanilla.md)
+    - [react](./js/react.md)
     - [astro](./js/astro.md)
 - [rust](rust.md)
 - [java](java.md)
